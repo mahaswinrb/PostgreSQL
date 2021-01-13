@@ -1,3 +1,3 @@
-# Postgresql samples
+# Postgresql work sample
 
-#Refer the data set chocolate_1.csv and given SQL code with solved queries
+#Refer the data set chocolate_1.csv and written SQL code
